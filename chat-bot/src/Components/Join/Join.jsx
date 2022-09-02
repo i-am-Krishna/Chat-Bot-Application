@@ -22,6 +22,7 @@ const setData = ()=>{
             </Link>
         </div>
     </div>
+    // {add}
   )
 }
 export default Join
